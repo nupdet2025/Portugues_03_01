@@ -1,0 +1,12 @@
+{
+  "name": "PORTUGUES_03_01",
+  "short_name": "PORTUGUES_03_01",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
